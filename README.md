@@ -11,6 +11,8 @@
 - People are awesome and I realize that. I love having discussions with people about all sorts of topics (tech, politics, funniest SNL skit ever).
 - theLonelyIsland is the best band (yes I camel cased that).
 
+[Blog](https://adiprerepa.github.io/blog.html)
+
 ## Contact me because i'm lonely
 
 - email: adiprerepa@gmail.com
