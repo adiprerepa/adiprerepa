@@ -1,19 +1,12 @@
 # Yo, I'm Aditya!
 
-- I am in High School, Mission San Jose High '22.
-- I Like building things.
-- Was lucky enough to land a Life360 & Tala Security internship (read about it on my blog), doing cool stuff.
-- I love open source, currently doing stuff in Istio, an open source service mesh.
+I really like build cool stuff with awesome people. Did that at both my internships, lots of projects and in open source (Istio).
 
-## Non-Tech Stuff
-
-- I like swimming (specifically open-water), have done alcatraz a few times.
-- People are awesome and I realize that. I love having discussions with people about all sorts of topics (tech, politics, funniest SNL skit ever).
-- TheLonelyIsland is #1
+I like swimming (specifically but not limited to open-water), have done alcatraz a few times. TheLonelyIsland's comic genius is unparalleled.
 
 [Blog](https://adiprerepa.github.io/blog.html)
 
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adiprerepa)](https://github.com/anuraghazra/github-readme-stats)
+[No Matter what you do, do not click this link. I forbid you.](https://adiprerepa.github.io/blogs/do-not-click/do-not-click.html)
 
 ## Contact me because i'm lonely
 
