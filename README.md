@@ -13,7 +13,7 @@
 
 [Blog](https://adiprerepa.github.io/blog.html)
 
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=aditya)](https://github.com/anuraghazra/github-readme-stats)
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adiprerepa)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact me because i'm lonely
 
