@@ -6,7 +6,7 @@ I like swimming (specifically but not limited to open-water), have done alcatraz
 
 [Blog](https://adiprerepa.github.io/blog.html)
 
-[No Matter what you do, do not click this link. I forbid you.](https://adiprerepa.github.io/blogs/do-not-click/do-not-click.html)
+[No Matter what you do, do not click this link. I forbid you.](https://adiprerepa.github.io/do-not-click/do-not-click.html)
 
 ## Contact me because i'm lonely
 
