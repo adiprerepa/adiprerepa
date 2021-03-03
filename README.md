@@ -1,6 +1,6 @@
 # Yo
 
-TheLonelyIsland is the greatest band of the century.
+[TheLonelyIsland](https://www.youtube.com/channel/UCCHcEUksSVKsRDH86j77Ntg) is the greatest band of the century.
 
 [Blog](https://adiprerepa.github.io/blog.html)
 
